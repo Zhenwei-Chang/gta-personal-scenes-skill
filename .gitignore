@@ -1,0 +1,20 @@
+# Private source photos and generated personal images stay outside the repository.
+private/
+photos/
+uploads/
+outputs/
+output/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.heic
+*.mp4
+*.zip
+!dist/gta-personal-scenes.skill.zip
+.env
+.env.*
+!.env.example
+__pycache__/
+.DS_Store
+Thumbs.db

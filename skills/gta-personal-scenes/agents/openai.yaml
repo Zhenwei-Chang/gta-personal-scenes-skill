@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTA 个人生活场景"
+  short_description: "把个人照片转为统一 GTA 游戏角色，生成新场景或替换已有主角与服装表情"
+  default_prompt: "使用 $gta-personal-scenes，参考我的照片生成统一游戏风格的个人生活场景。"
